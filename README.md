@@ -1,0 +1,1 @@
+Modified version of http://jscolor.com/ that does not require image assets (embeded in JS as data:image).
