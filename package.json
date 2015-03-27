@@ -1,0 +1,19 @@
+{
+  "name": "jscolor",
+  "version": "0.0.0",
+  "description": "Modified version of http://jscolor.com/ that does not require image assets (embeded in JS as data:image).",
+  "main": "jscolor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/whitecolor/jscolor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitecolor/jscolor/issues"
+  },
+  "homepage": "https://github.com/whitecolor/jscolor"
+}
