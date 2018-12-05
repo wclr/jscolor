@@ -1,6 +1,6 @@
 {
   "name": "jscolor",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Modified version of http://jscolor.com/ that does not require image assets (embeded in JS as data:image).",
   "main": "jscolor.js",
   "scripts": {
